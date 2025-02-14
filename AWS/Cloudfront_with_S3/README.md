@@ -33,19 +33,15 @@ and APIs to users globally with low latency and high transfer speeds.
 ---
 
 ## Now, create cloudfront
-  
-![cloudfront1_s3](https://github.com/user-attachments/assets/fd228fe2-30d3-425b-a788-b79e07e79929)
 
 - Select origin domain, our origin domain is s3 so It will show s3 bucket name.
 - origin domain would be from load balancer, API, EC2 instance
-
-  ![cloudfront2_s3](https://github.com/user-attachments/assets/ee0c6b4b-c736-4433-a64e-8dd1d5dc3e15)
 
 - select origin access
 
   ![cloudfront3_s3](https://github.com/user-attachments/assets/45d08b11-8b17-4c78-9c8d-dada9055a2ef)
 
-  - after selecting the OAC it will provide bucket policy which we have to paste in bucket policy
+  - after selecting the OAC  (more  secure for s3) it will provide bucket policy which we have to paste in bucket policy
 
   - Now Copy Distribution domain name and paste in new tab and then hit
 
