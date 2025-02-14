@@ -10,15 +10,16 @@ and APIs to users globally with low latency and high transfer speeds.
 
 ##   Now, We will intergrate cloudfront with S3 Bucket
 
-- Firstly we create S3 bucket
 
-  ![image](https://github.com/user-attachments/assets/74516f74-b0e8-49e0-87d4-03bd12a40112)
+  ![cloudfront_draw](https://github.com/user-attachments/assets/84f2b596-73de-42ae-8475-d4e505085c3d)
+
+
+- Firstly we create S3 bucket
 
   - Then, upload objects in buckets, I used code files
 
-  ![image](https://github.com/user-attachments/assets/4ed728b8-0bc5-4467-9acb-c296043f8223)
-
   - Go to the permission setting in S3 and Block public access i.e off
+  - 
   - then go to bucket policy and add below policy
 
     ![image](https://github.com/user-attachments/assets/6d7d70b9-49aa-46c0-ad12-2e9292140dea)
