@@ -19,8 +19,8 @@ and APIs to users globally with low latency and high transfer speeds.
   - Then, upload objects in buckets, I used code files
 
   - Go to the permission setting in S3 and Block public access i.e off
-  - 
-  - then go to bucket policy and add below policy
+ 
+  - then go to bucket policy and add below policy 
 
     ![image](https://github.com/user-attachments/assets/6d7d70b9-49aa-46c0-ad12-2e9292140dea)
 
