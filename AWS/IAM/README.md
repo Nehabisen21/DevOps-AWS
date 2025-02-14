@@ -8,16 +8,12 @@
 ---
 ## How to create IAM user and attach required permission to the user
 
-- Login to AWS <a href="https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fiam%2Fhome%3FhashArgs%3D%2523%252Fhome%26isauthcode%3Dtrue%26oauthStart%3D1738838004557%26region%3Dus-east-1%26state%3DhashArgsFromTB_us-east-1_1fd333b726da4261&client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fiamv2&forceMobileApp=0&code_challenge=1UaqaA3tSgCTr_IdOVvB4OYH51LY8cEckDKBCuHi1Gc&code_challenge_method=SHA-256">console</a>
-![image](https://github.com/user-attachments/assets/f033c8d0-4316-497c-aa0d-c16fc6014dd4)
 
 - After login, go to the search bar of AWS and search for IAM and click on it.
   
-![image](https://github.com/user-attachments/assets/3e4c2e4f-7e23-4356-aa67-9bb3d8dd067c)
 
 - Now, let's create a user, go to IAM and on the left sidebar click on users, as shown in the below screenshot
 
-![image](https://github.com/user-attachments/assets/7cb6415b-1cb0-4104-bf9c-cfa4600222fa)
 
 - Now, click on **create user**
 
